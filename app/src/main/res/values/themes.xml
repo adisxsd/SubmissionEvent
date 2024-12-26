@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Base.Theme.Submissionevent" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="background_color">@color/white</item>
+        <item name="text_color">@color/black</item>
+    </style>
+
+    <style name="Theme.Submissionevent" parent="Base.Theme.Submissionevent">
+
+    </style>
+</resources>
